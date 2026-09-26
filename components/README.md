@@ -14,6 +14,7 @@ Diese Datei ist die zentrale Stück- und Dokumentationsliste für das Kamera-/Ha
 | C006 | Permanentmagnete | Typ/Abmessungen offen | 5 | Impulsgeber an der Haspel | Gleichmäßige Montage; ausreichende Feldstärke bei geplantem Luftspalt | offen | offen | nicht erforderlich | Auswahl offen |
 | C007 | Li-Ion-Akku | 3S, 12,6 V voll, 3000 mAh | 1 | Mobile Stromversorgung | 3 Zellen in Serie, Nennenergie ca. 37,8 Wh bei 12,6 V × 3 Ah als Maximalspannungsbezug; tatsächliche Nennenergie je Zellchemie prüfen | offen | offen | offen | vorhanden / zu bestätigen |
 | C008 | Analog-Kameramodul | Typ offen | 1 | Bildaufnahme im Kamin/Rohr | Analoges Videosignal; mechanische Bauform und Versorgung noch dokumentieren | offen | offen | offen | vorhanden / zu bestätigen |
+| C009 | Batterieanzeige | RUNCCI-YUN 3S Lithium Battery Capacity Indicator | 4er-Pack, 1 vorgesehen | visuelle Anzeige des ungefähren Ladezustands des 3S-Akkus | 11,1 V nominal / 12,6 V voll, blaue LED-Segmente, 2-Draht-Anschluss direkt am Akku | Amazon.it | „RUNCCI-YUN 3S Modulo Indicatore di Capacità Della Batteria Al Litio … (4PCS)“ | siehe Detailseite | vorhanden / Maße und Montage zu prüfen |
 
 ## Pflichtangaben pro Komponente
 
