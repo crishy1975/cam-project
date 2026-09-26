@@ -9,7 +9,8 @@ Kompaktes DC/DC-Abwärtswandlermodul auf Basis des **MP1584EN**. Es wird im Kame
 - **Bauteil / IC:** MP1584EN
 - **Hersteller des ICs:** Monolithic Power Systems (MPS)
 - **Modultyp:** einstellbarer Buck-/Step-Down-Wandler
-- **Bekannte Produktbezeichnung:** GTIWUNG MP1584EN Mini Step-Down Modul
+- **Marke des gekauften Moduls:** GTIWUNG
+- **Gekaufte Produktbezeichnung:** GTIWUNG 10 Pezzi MP1584EN Mini Convertitore Buck Step-down, Ultra Piccolo 3A Regolabile Alimentatore Step-Down Module, Convertitore buck DC-DC da 4,5-28V a 0,8-20V
 - **Geplante Funktion im Projekt:** Spannungsreduzierung aus der Akkuversorgung
 
 ## Technische Eigenschaften
@@ -27,14 +28,16 @@ Kompaktes DC/DC-Abwärtswandlermodul auf Basis des **MP1584EN**. Es wird im Kame
 - Pulse-Skipping bei kleiner Last zur Wirkungsgradverbesserung
 - Gehäuse des ICs: **SOIC8E**
 
-### Angaben des verwendeten Mini-Moduls
+### Angaben des gekauften GTIWUNG-Mini-Moduls
 
-Die konkrete Modulversion wurde als einstellbarer MP1584EN-Mini-Wandler mit folgenden Händlerangaben beschrieben:
+Laut Produktbezeichnung des gekauften Artikels:
 
-- Eingang: **ca. 4,5–28 V DC**
-- Ausgang: **ca. 0,8–20 V DC, einstellbar**
-- maximal beworbener Ausgangsstrom: **3 A**
-- Einstellung der Ausgangsspannung über Trimmer/Potentiometer
+- Eingang: **4,5–28 V DC**
+- Ausgang: **0,8–20 V DC, einstellbar**
+- beworbener Ausgangsstrom: **bis 3 A**
+- Bauform: **Mini / Ultra Piccolo**
+- Ausgangsspannung über Trimmer/Potentiometer einstellbar
+- Lieferumfang: **10 Stück**
 
 > Hinweis: Die reale dauerhaft nutzbare Stromstärke eines sehr kleinen MP1584EN-Moduls hängt stark von Eingangsspannung, Ausgangsspannung, Kühlung, Leiterplattenlayout und Umgebungstemperatur ab. Die 3-Angabe ist daher nicht automatisch als dauerhaft zulässiger Praxisstrom zu verstehen.
 
@@ -68,13 +71,14 @@ MP1584EN Step-Down
 
 ## Einkauf
 
-- **Händler:** noch einzutragen
-- **Shop:** noch einzutragen
+- **Händler / Shop:** Amazon.it
+- **Marke:** GTIWUNG
+- **Produkt:** GTIWUNG 10 Pezzi MP1584EN Mini Convertitore Buck Step-down, Ultra Piccolo 3A Regolabile Alimentatore Step-Down Module, Convertitore buck DC-DC da 4,5-28V a 0,8-20V
+- **Stückzahl:** 10 Module
 - **Produktlink:** noch einzutragen
 - **Bestellnummer / ASIN:** noch einzutragen
 - **Kaufpreis:** noch einzutragen
 - **Kaufdatum:** noch einzutragen
-- **Stückzahl:** noch einzutragen
 
 ## Datenblatt
 
@@ -92,7 +96,8 @@ Für dieses Projekt ist das vorhandene MP1584EN-Modul trotzdem sinnvoll verwendb
 
 ## Noch zu prüfen
 
-- [ ] tatsächlicher Händler / Kauflink
+- [ ] exakter Amazon-Produktlink / ASIN
+- [ ] Kaufpreis und Kaufdatum
 - [ ] exakte Abmessungen unseres Moduls
 - [ ] tatsächliche Ausgangsspannung im Kamera-Projekt
 - [ ] Dauerstrom des angeschlossenen Verbrauchers
@@ -103,4 +108,4 @@ Für dieses Projekt ist das vorhandene MP1584EN-Modul trotzdem sinnvoll verwendb
 
 ## Quellen
 
-Technische IC-Daten basieren auf der Herstellerdokumentation von Monolithic Power Systems. Händlerangaben des Mini-Moduls werden separat dokumentiert, sobald der konkrete Kauflink vorliegt.
+Technische IC-Daten basieren auf der Herstellerdokumentation von Monolithic Power Systems. Die Händlerangaben zum gekauften Modul stammen aus der Produktbezeichnung des bei Amazon.it gekauften GTIWUNG-10er-Sets.
